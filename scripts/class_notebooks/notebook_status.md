@@ -1,11 +1,9 @@
 # Overview of all notebooks
 
-## 1_2_Python_and_Pandas
-- *Is this still important? Refresher of Brian's notebook?*
-
 ## 1_3_Variables
 - First example of combining Python and SQL: Most of the content is good
-- *What dataset do we want to do this on?*
+- LEHD data will be used
+- What should the exercise be?
 
 ## 1_4_Variables_Exercices
 - Exercise structure is still relevant
@@ -29,6 +27,7 @@
 - Matching: matching the name of the companies
   + Exact matching is easy (on company name and on address)
   + Fuzzy matching more complex: *what other features should be considered?*
+- Three types of matching are exact, rule-based and probabilistic. *Should fuzzy matching be treated separately?*
 
 ## 4_1_Text_Analysis
 - Do on Patent data
