@@ -24,6 +24,10 @@
 
 ## 2_3_data_visualization
 - Keep as is
+- Near the middle *I need inspiration for the graphs!! Water data perhaps?*
+- *seaborn function tsplot is deprecated – replace?*
+- Need inspiration for the exercises
+
 
 ## 3_1_Record_Linkage
 - Focus on linking companies from KCMO dataset to Patent dataset to water services data
@@ -44,7 +48,8 @@
 
 ## 4_2_Network Analysis
 - Use patent data
-  + *Inventors going from one company to another? Or moving around areas?*
+  + *NOT CLEAR WHAT DATA TO USE HERE.*
+  + *Patent data? Inventors going from one company to another? Or moving around areas?*
 
 ## 5_1_Machine_Learning
 - Wait for feedback from Rayid on how he wants to run this
