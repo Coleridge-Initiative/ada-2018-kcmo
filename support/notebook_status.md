@@ -1,15 +1,22 @@
 # Overview of all notebooks
-- *Should we rename LODES variables?*
-
+- Two ways of connecting to database
+  + To clarify with Jonathan: do we want to show them both, why
+  + If we have to use both, put them both in the first notebook
+  + If one, SQL Alchemy is preferred
 
 ## 1_3_Variables
 - First example of combining Python and SQL: Most of the content is good
 - LEHD data will be used
-- What should the exercise be?
-
-## 1_4_Variables_Exercices
-- Exercise structure is still relevant
-- *What should the dataset be?*
+- *What should the exercise be?*
+  + Do for LODES, ask to do the same for water services (or patents, or business licenses)
+  1. __What are the datasets?__
+    + Primary class datasets will already be in the database
+    + Also, read descriptions in ADRF explorer (make sure the Explorer is populated correctly and that people can access it)
+  2. Give simple statistics for datasets
+  3. Combine datasets in some kind of way
+    + Subset to KCMO by Merging on X-walk (JOIN and WHERE)
+  4. Show some kind of correlation/table combining 2 variable from different datasets
+    + Combining Lodes and water data
 
 ## 2_1_Database_clients
 - Remove section on the command line
@@ -28,7 +35,6 @@
 - *seaborn function tsplot is deprecated – replace?*
 - Need inspiration for the exercises
 
-
 ## 3_1_Record_Linkage
 - Focus on linking companies from KCMO dataset to Patent dataset to water services data
 - Data exploration: look at both business name formats
@@ -42,7 +48,7 @@
 ## 4_1_Text_Analysis
 - on patent abstract
 - *Are the functions defined too early in the notebook? Separated?* I would do entire run without functions, then say: let's recap everything into 3 functions, that you can keep for other projects.
-- *Is it worth showing N-grams?* The results are not particularly relevant here.
+- *Is it worth showing N-grams?* The results are not particularly relevant here... But useful in general
 - *Can we remove Supervised Learning?* We would have to find a new way of doing it here (there is not the factype variable that we need)
 - I removed import progressbar
 
