@@ -33,3 +33,7 @@
   + GM: Metropolitan level
   + NS: NAICS industry sectors (there are other industry categorizations as well)
   + F: firm age and size not included (can be additional information for further groups)
+
+## KCMO Business Licenses:
+- Variable Names:
+  + ['business_activity', 'address', 'legal_name', 'dba_name', 'filing_period']
