@@ -6,8 +6,6 @@
 - *Do you like that thing where we see more than 20 columns on pandas?*
 
 ## 1_1_Variables
-- First example of combining Python and SQL: Most of the content is good
-- LEHD data will be used
 - *What should the exercise be?*
   + Do for LODES, ask to do the same for water services (or patents, or business licenses)
   1. __What are the datasets?__
@@ -18,8 +16,9 @@
     + Subset to KCMO by Merging on X-walk (JOIN and WHERE)
   4. Show some kind of correlation/table combining 2 variable from different datasets
     + Combining Lodes and water data
-
   - Important to stress the different time intervals between wage records, water data, LODES data
+- *Need a better sense of water data or MO wage records for this.*
+
 
 ## 2_1_Database_clients
 - Remove section on the command line
