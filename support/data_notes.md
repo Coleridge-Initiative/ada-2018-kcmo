@@ -20,8 +20,6 @@
 - Geographic Crosswalk File:
   + 343,565 blocks (many therefore with neither residents nor workers)
 
-
-
 ## Quarterly Workforce Indicator (QWI):
 
 - Description:
@@ -37,3 +35,15 @@
 ## KCMO Business Licenses:
 - Variable Names:
   + ['business_activity', 'address', 'legal_name', 'dba_name', 'filing_period']
+
+
+## Wage Records Data
+- Latitude and Longitude were not properly parsed
+  + Check if the first character was not incorrectly parsed
+- *Ezra will be matching Wage records from MO and IL*
+- EIN is consistent across states within companies that do not work with franchises
+  + EIN can be 1, 2, 7, 8 digit – should be 9
+    - LOOK INTO !
+  + Names are not useful – only in some rare cases
+  + Most firm will not match across states
+- Sub-EIN: useful for the zip-code
