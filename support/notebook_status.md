@@ -17,13 +17,12 @@
   4. Show some kind of correlation/table combining 2 variable from different datasets
     + Combining Lodes and water data
   - Important to stress the different time intervals between wage records, water data, LODES data
-- *Need a better sense of water data or MO wage records for this.*
-
+- *I do not have them creating tables (no output schema). Is this a good idea?*
 
 ## 2_1_Database_clients
-- Remove section on the command line
+- *Remove section on the command line*
 - Rest is still relevant
-- Change connection to database
+- *Change connection to database*
 
 ## 2_3_data_visualization
 - Keep as is
@@ -58,9 +57,7 @@
 
 
 ## 4_2_Network Analysis
-- Use patent data
-  + *NOT CLEAR WHAT DATA TO USE HERE.*
-  + *Patent data? Inventors going from one company to another? Or moving around areas?*
+- *TO DO*
 
 ## 5_1_Machine_Learning
 - Wait for feedback from Rayid on how he wants to run this

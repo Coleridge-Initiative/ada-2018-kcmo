@@ -40,10 +40,19 @@
 ## Wage Records Data
 - Latitude and Longitude were not properly parsed
   + Check if the first character was not incorrectly parsed
-- *Ezra will be matching Wage records from MO and IL*
 - EIN is consistent across states within companies that do not work with franchises
   + EIN can be 1, 2, 7, 8 digit – should be 9
     - LOOK INTO !
   + Names are not useful – only in some rare cases
   + Most firm will not match across states
 - Sub-EIN: useful for the zip-code
+- Business names:
+  + Two individual columns
+
+
+## Water consumption data:
+- *Billed consumption vs Absolute consumption*
+  + Very often, the billed consumption is more than the actual consumption (>99%)
+- *ubbchst_uoms_code: what do we consider when the value is "NONE"?*
+  + Ask them in email
+  + NONE is most frequent, in front of CUFT (all the rest is <0.1%)
