@@ -18,6 +18,14 @@
     + Combining Lodes and water data
   - Important to stress the different time intervals between wage records, water data, LODES data
 - *I do not have them creating tables (no output schema). Is this a good idea?*
+- Creating QWI features from Ezra notebook
+  + *Since the wage records are hashed, we cannot create all features*
+    - Job based monthly earnings of quarterly flow employment
+    - Job based monthly earning of beginning of quarter employees
+    - job-based monthly earning of end of quarter employees
+    - job-based monthly earning of full quarter employees
+  + *Should we take into account the predecessors and successors that Ezra and Andy define?* This seems like a complex task for participants to understand, but we can also just give them the functions
+   
 
 ## 2_1_Database_clients
 - *Remove section on the command line*

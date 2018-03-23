@@ -48,6 +48,9 @@
 - Sub-EIN: useful for the zip-code
 - Business names:
   + Two individual columns
+- *Hashed wage: is it hashed even if the value is 0? Does it appear in the data if this is the case*
+  + For special feature creation
+  + *Hash a 0 and check the value of the hash*
 
 
 ## Water consumption data:
@@ -56,3 +59,7 @@
 - *ubbchst_uoms_code: what do we consider when the value is "NONE"?*
   + Ask them in email
   + NONE is most frequent, in front of CUFT (all the rest is <0.1%)
+
+
+## With Ewa
+- Not use the olde version of the schema for the KMCO class
