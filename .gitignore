@@ -5,3 +5,6 @@ _site/
 .ipynb_checkpoints
 data/
 output/
+support/
+data_preparation/
+dropped_notebooks/
