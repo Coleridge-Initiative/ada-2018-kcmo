@@ -17,5 +17,5 @@ dependencies:
 - ipywidgets=7.1.2
 - statsmodels=0.8.0
 # TO CHECK:  installed next afterwards and conda downgraded gdal, libgdal, python and others...
-- graphviz # TO DO: conda says graphviz installed but does not import in notebook
-- pydotplus # visualizing tree works, but TO DO: test other functionality still works
+- graphviz=2.38.0 # TO DO: conda says graphviz installed but does not import in notebook
+- pydotplus=2.0.2 # visualizing tree works, but TO DO: test other functionality still works
