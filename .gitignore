@@ -1,11 +1,29 @@
-_site/
+# Mac
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+.Rproj.user
+*.Rproj
+
+# Other
 .sass-cache/
 .jekyll-metadata
-.DS_Store
-.ipynb_checkpoints
+
+# Folders
+_archives/
+_site/
 data/
 output/
 support/
-data_preparation/
 dropped_notebooks/
 exploratory/
+
+# Files
+temp_test.do
