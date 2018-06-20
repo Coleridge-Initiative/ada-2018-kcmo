@@ -18,12 +18,8 @@
 
 # Folders
 _archives/
-_site/
 data/
-output/
 support/
-dropped_notebooks/
-exploratory/
 
 # Files
 temp_test.do
