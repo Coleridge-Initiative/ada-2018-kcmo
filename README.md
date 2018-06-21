@@ -2,7 +2,7 @@
 
 The [Coleridge Initiative](coleridgeinitiative.org)'s Applied Data Analytics training program focused on Local Economic Development and Job Creation in Kansas City, Missouri.
 
-The program was generously sponsored and hosted by The Kauffman Foundation.
+The program was generously sponsored and hosted by the Ewing Marion Kauffman Foundation.
 
 ## Class Overview and Projects
 
@@ -50,7 +50,7 @@ __Day 5: Introduction to Machine Learning__
 __Day 6: Machine Learning for Prediction__
 
 __Day 7: Inference__
-- [Imputing Missing Values for Machine Learning Notebook](https://github.com/Coleridge-Initiative/ada-2018-kcmo/tree/master/class_notebooks/1_1_Variables.ipynb)
+- [Imputing Missing Values for Machine Learning Notebook](https://github.com/Coleridge-Initiative/ada-2018-kcmo/tree/master/class_notebooks/7_3_Imputing_Missing_Values_for_ML.ipynb)
 
 __Day 8: Machine Learning in Practice__
 
