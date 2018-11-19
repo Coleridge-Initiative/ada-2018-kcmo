@@ -1,6 +1,6 @@
 # Applied Data Analytics training program – Kansas City, MO (2018)
 
-The [Coleridge Initiative](www.coleridgeinitiative.org)'s Applied Data Analytics training program focused on Local Economic Development and Job Creation in Kansas City, Missouri.
+The [Coleridge Initiative](https://www.coleridgeinitiative.org)'s Applied Data Analytics training program focused on Local Economic Development and Job Creation in Kansas City, Missouri.
 
 The program was generously sponsored and hosted by the Ewing Marion Kauffman Foundation.
 
